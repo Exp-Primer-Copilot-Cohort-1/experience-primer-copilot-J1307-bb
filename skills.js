@@ -1,3 +1,3 @@
-function calculeteNumber(var1, va2){
+function calculateNumbers(var1, var2){
         console.log(var1 + var2);
 }
